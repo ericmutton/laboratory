@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"extensions": {
+		"recommendations": [
+			"platformio.platformio-ide",
+			"ms-vscode.cpptools",
+			"waderyan.gitblame",
+			"mhutchie.git-graph",
+			"bierner.github-markdown-preview",
+			"github.vscode-pull-request-github",
+			"tizen.vscode-tizen-csharp",
+			"github.vscode-github-actions"
+		]
+	},
+	"settings": {}
+}
