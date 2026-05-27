@@ -1,0 +1,237 @@
+(footprint "EXB28V103JX"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "0402x4_2025-1.1")
+	(tags "Resistor Network (8-Pin)")
+	(property "Reference" "RN**"
+		(at 0 -1.5 0)
+		(layer "F.SilkS")
+		(uuid "fdaa4e2f-d977-4e67-ba24-f6aca1216c3e")
+		(effects
+			(font
+				(size 1 1)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "EXB28V103JX"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ac3efe12-4d37-40d2-a6ca-a37e28f84db8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8073a46f-0d0b-4dfc-b806-0645dd4741bc")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "94d407d6-d655-4894-aa35-e7aebc9489ee")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.887 1.1)
+		(end -0.887 1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "398726a6-69d3-46b7-bbd3-669dd43ee656")
+	)
+	(fp_line
+		(start -0.887 1.2)
+		(end -0.887 1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d5077d09-e868-47a5-8fc0-c206c16caca1")
+	)
+	(fp_arc
+		(start -0.887 1.1)
+		(mid -0.837 1.15)
+		(end -0.887 1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1c8a2c1f-e297-4644-98ab-9cbe90ac9d7c")
+	)
+	(fp_arc
+		(start -0.887 1.2)
+		(mid -0.937 1.15)
+		(end -0.887 1.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0aa5a0ad-f343-4cd6-8b14-5fc5f3c7716e")
+	)
+	(fp_line
+		(start -2.15 -1.7)
+		(end 2.15 -1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "06008b0c-cb9a-4130-b9ff-9daedb1db995")
+	)
+	(fp_line
+		(start -2.15 1.7)
+		(end -2.15 -1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4be5a1cc-ee64-42b7-bcc3-691d8f544c97")
+	)
+	(fp_line
+		(start 2.15 -1.7)
+		(end 2.15 1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "64cbb57f-9327-4f1e-9c5e-99a718bc1585")
+	)
+	(fp_line
+		(start 2.15 1.7)
+		(end -2.15 1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f67c9c1f-ac0c-46c5-9c41-c6d13488e8d1")
+	)
+	(fp_line
+		(start -1 -0.5)
+		(end 1 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1cfc3f35-53fa-4d01-8308-4f9e36327515")
+	)
+	(fp_line
+		(start -1 0.5)
+		(end -1 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b6ba14d9-6c9d-4d3e-9b4b-4848f239ce59")
+	)
+	(fp_line
+		(start 1 -0.5)
+		(end 1 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a27b2c5b-7b1c-410c-81cc-84a8d3f59123")
+	)
+	(fp_line
+		(start 1 0.5)
+		(end -1 0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3fc81b8d-2cae-4997-9c85-6f2355116096")
+	)
+	(pad "1" smd rect
+		(at -0.887 0.45 90)
+		(size 0.5 0.525)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4fbf2c99-bac8-46b9-b003-71c00ead9f7b")
+	)
+	(pad "2" smd rect
+		(at -0.25 0.45)
+		(size 0.25 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "67f3b6ef-178c-47bb-b5f4-0a674c771011")
+	)
+	(pad "3" smd rect
+		(at 0.25 0.45)
+		(size 0.25 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "99570b9e-984a-4347-ae6d-ac09d9ea6eec")
+	)
+	(pad "4" smd rect
+		(at 0.887 0.45 90)
+		(size 0.5 0.525)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "3249aaaf-9bad-4070-ac60-512c71bacfbd")
+	)
+	(pad "5" smd rect
+		(at 0.887 -0.45 90)
+		(size 0.5 0.525)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cee1dd26-b1cb-43a7-b84a-56ba7369d924")
+	)
+	(pad "6" smd rect
+		(at 0.25 -0.45)
+		(size 0.25 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d0add203-4676-43ff-96b1-ec147d80cc64")
+	)
+	(pad "7" smd rect
+		(at -0.25 -0.45)
+		(size 0.25 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5b2b1169-e206-4e86-aca8-9a42c2bb9947")
+	)
+	(pad "8" smd rect
+		(at -0.887 -0.45 90)
+		(size 0.5 0.525)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "982e4d57-33cb-4ee6-af87-84e4dd6622f5")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/../laboratory.pretty/3dmodels/EXB-28V103JX.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -90)
+		)
+	)
+)
