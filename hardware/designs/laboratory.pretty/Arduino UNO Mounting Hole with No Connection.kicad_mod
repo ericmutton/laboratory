@@ -8,7 +8,7 @@
 		(unlocked yes)
 		(layer "F.SilkS")
 		(hide yes)
-		(uuid "82bf817a-4c68-4957-a855-6e70abb604a0")
+		(uuid "2c3f7751-a30b-4b62-89b5-4fb306c2bc9c")
 		(effects
 			(font
 				(size 1 1)
@@ -21,7 +21,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "901b22e2-3f62-4ce7-b386-1feb621373e0")
+		(uuid "0ebc3d07-f2d6-45ab-9c36-4b62d0bc233f")
 		(effects
 			(font
 				(size 1 1)
@@ -34,7 +34,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "28520720-4ae2-4696-a512-e81bd738aefb")
+		(uuid "2013c8d9-9be5-4b71-85a5-03a33219915c")
 		(effects
 			(font
 				(size 1 1)
@@ -47,7 +47,7 @@
 		(unlocked yes)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "4e1bc84f-9dbc-4c8f-af37-8dc39b76bd62")
+		(uuid "28ceeaaf-5359-46b5-8128-831f8b494852")
 		(effects
 			(font
 				(size 1 1)
@@ -55,7 +55,8 @@
 			)
 		)
 	)
-	(attr board_only exclude_from_pos_files exclude_from_bom)
+	(solder_paste_margin_ratio -0.05)
+	(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 	(duplicate_pad_numbers_are_jumpers no)
 	(pad "" np_thru_hole circle
 		(at 0 0)
@@ -63,9 +64,9 @@
 		(drill 3.19989)
 		(layers "*.Cu" "*.Mask")
 		(solder_mask_margin 0.4)
-		(solder_paste_margin -5)
+		(solder_paste_margin_ratio -0.05)
 		(thermal_bridge_angle 90)
-		(uuid "afc0c8be-490d-46ea-88ea-404a9f21281b")
+		(uuid "c08bf95f-cb7d-490e-afbf-294c7b3b9ff9")
 	)
 	(embedded_fonts no)
 )
