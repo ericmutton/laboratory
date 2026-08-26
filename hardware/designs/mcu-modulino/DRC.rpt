@@ -1,0 +1,78 @@
+** Drc report for mcu-modulino.kicad_pcb **
+** Created on 2026-07-14T23:05:44 **
+** Report includes: Errors **
+
+** Found 8 DRC violations **
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.2500 mm)
+    Rule: board setup constraints hole; error
+    @(120.9390 mm, 90.8715 mm): Via [GND] on F.Cu - B.Cu
+    @(121.3580 mm, 90.1033 mm): NPTH pad of J1
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.2500 mm)
+    Rule: board setup constraints hole; error
+    @(120.9390 mm, 90.8715 mm): Via [GND] on F.Cu - B.Cu
+    @(121.3580 mm, 90.1033 mm): NPTH pad of J1
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.2500 mm)
+    Rule: board setup constraints hole; error
+    @(120.9390 mm, 90.8715 mm): Via [GND] on F.Cu - B.Cu
+    @(121.3580 mm, 90.1033 mm): NPTH pad of J1
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.2500 mm)
+    Rule: board setup constraints hole; error
+    @(120.9390 mm, 90.8715 mm): Via [GND] on F.Cu - B.Cu
+    @(121.3580 mm, 90.1033 mm): NPTH pad of J1
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(122.4330 mm, 89.7933 mm): Pad A1 [GND] of J1 on F.Cu
+    @(121.3580 mm, 90.1033 mm): NPTH pad of J1
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(122.4330 mm, 89.7933 mm): Pad B12 [GND] of J1 on F.Cu
+    @(121.3580 mm, 90.1033 mm): NPTH pad of J1
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(122.4330 mm, 96.1933 mm): Pad A12 [GND] of J1 on F.Cu
+    @(121.3580 mm, 95.8833 mm): NPTH pad of J1
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.2540 mm; actual 0.1944 mm)
+    Rule: board setup constraints hole; error
+    @(122.4330 mm, 96.1933 mm): Pad B1 [GND] of J1 on F.Cu
+    @(121.3580 mm, 95.8833 mm): NPTH pad of J1
+
+** Found 7 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(174.3684 mm, 84.2434 mm): Pad 1 [/IO0] of TP5 on B.Cu
+    @(138.8968 mm, 103.5000 mm): Track [/IO0] on F.Cu, length 1.2772 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(176.3622 mm, 86.2434 mm): Pad 1 [/TXD] of TP1 on B.Cu
+    @(141.3469 mm, 81.6637 mm): PTH pad 4 [/TXD] of J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(176.3622 mm, 84.2434 mm): Pad 1 [/RXD] of TP2 on B.Cu
+    @(142.4283 mm, 83.1222 mm): Track [/RXD] on F.Cu, length 2.0627 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(176.3622 mm, 82.2434 mm): Pad 1 [/~{RTS}] of TP3 on B.Cu
+    @(144.4199 mm, 83.6706 mm): Track [/~{RTS}] on F.Cu, length 2.8383 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(155.7500 mm, 85.6177 mm): Track [+3.3V] on F.Cu, length 0.7674 mm
+    @(146.6345 mm, 87.2987 mm): Track [+3.3V] on F.Cu, length 2.4400 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(124.9268 mm, 86.3733 mm): Track [/EN] on F.Cu, length 3.5732 mm
+    @(174.3684 mm, 86.2434 mm): Pad 1 [/EN] of TP6 on B.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(135.5113 mm, 86.2887 mm): Track [/~{DTR}] on F.Cu, length 2.0003 mm
+    @(174.3684 mm, 82.2434 mm): Pad 1 [/~{DTR}] of TP4 on B.Cu
+
+** Found 0 Footprint errors **
+
+** Ignored checks **
+    - Footprint has no courtyard defined
+    - Track endpoint not centered on via
+    - Tuning profile track geometries
+    - Footprint doesn't match symbol's footprint filters
+    - Footprint component type doesn't match footprint pads
+
+** End of Report **
