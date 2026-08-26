@@ -5547,13 +5547,13 @@
 			(uuid "c48c7e70-4ac9-47b2-a349-4a80cd261349")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR041")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR041")
 					(unit 1)
@@ -5680,13 +5680,13 @@
 			(uuid "a388320c-6b02-42aa-a717-c45b5dde6486")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "J1")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "J1")
 					(unit 1)
@@ -5764,13 +5764,13 @@
 			(uuid "b171b619-3247-4cd4-a6e9-4c2aef37cd66")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR047")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR047")
 					(unit 1)
@@ -5852,13 +5852,13 @@
 			(uuid "a5ca3c07-f9ba-4096-91de-324352c299c1")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "C1")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "C1")
 					(unit 1)
@@ -5937,13 +5937,13 @@
 			(uuid "fa882d04-99a7-4181-a30e-b2902a61879c")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#FLG02")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#FLG02")
 					(unit 1)
@@ -6022,13 +6022,13 @@
 			(uuid "d118f095-5d6d-44d3-a639-1448a8223a9d")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR043")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR043")
 					(unit 1)
@@ -6104,13 +6104,13 @@
 			)
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#SYM1")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#SYM1")
 					(unit 1)
@@ -6191,13 +6191,13 @@
 			(uuid "75bb1cb5-4b5b-4bf4-a18c-0d391400265d")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "R6")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "R14")
 					(unit 1)
@@ -6275,13 +6275,13 @@
 			(uuid "590e2d8b-b41d-4d47-afeb-baaa57435475")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR045")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR045")
 					(unit 1)
@@ -6381,13 +6381,13 @@
 			(uuid "db5802f4-2ede-4859-80e8-2cb12d56d68a")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "J3")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "J3")
 					(unit 1)
@@ -6465,13 +6465,13 @@
 			(uuid "9d278e2a-34ea-4f96-82a6-a21dc3b27dec")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR042")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR042")
 					(unit 1)
@@ -6561,13 +6561,13 @@
 			(uuid "5fa8446a-2dc7-47f7-8bc8-c8af7956e8bd")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "D2")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "D2")
 					(unit 1)
@@ -6645,13 +6645,13 @@
 			(uuid "8cfbc6de-b523-46c1-a461-a3a1c4d007b4")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR011")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR011")
 					(unit 1)
@@ -6814,13 +6814,13 @@
 			(uuid "ee5ec7b4-de15-4bcb-9e0b-59ab21eba2c2")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "U1")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "U1")
 					(unit 1)
@@ -6898,13 +6898,13 @@
 			(uuid "403f77b3-9245-4b13-bc10-e3657deb5b31")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#FLG01")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#FLG01")
 					(unit 1)
@@ -6983,13 +6983,13 @@
 			(uuid "e1b320a9-954b-4eb2-91d6-8529a84ab0f4")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR044")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR044")
 					(unit 1)
@@ -7068,13 +7068,13 @@
 			(uuid "9ba65e9b-4b43-4180-b785-5ca4bc6e4181")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR039")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR039")
 					(unit 1)
@@ -7164,13 +7164,13 @@
 			(uuid "e70c140b-586d-4f5c-a3cf-7ad5568fd561")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "D3")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "D3")
 					(unit 1)
@@ -7252,13 +7252,13 @@
 			(uuid "f29ca38f-df8a-484b-9d8b-98409e37d2ab")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "C2")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "C2")
 					(unit 1)
@@ -7338,13 +7338,13 @@
 			(uuid "ac8e4155-6911-4610-9eef-9d336f107121")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "R2")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "R1")
 					(unit 1)
@@ -7426,13 +7426,13 @@
 			(uuid "c90bf770-5ba0-4b9a-94fc-1b2abb7d7efd")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "R5")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "R6")
 					(unit 1)
@@ -7514,13 +7514,13 @@
 			(uuid "7ee1928d-fc3b-4d0f-b9ba-e59b4faddcd1")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "C4")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "C4")
 					(unit 1)
@@ -7598,13 +7598,13 @@
 			(uuid "8da8bab5-0211-43e0-aa79-dde5fea4bdbf")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR048")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR048")
 					(unit 1)
@@ -7682,13 +7682,13 @@
 			(uuid "834de454-5dfd-4b3a-a1b7-911f3db7e28a")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR053")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR053")
 					(unit 1)
@@ -7769,13 +7769,13 @@
 			(uuid "55595628-6775-4118-9212-bb5e65fad4cc")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "R3")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "R3")
 					(unit 1)
@@ -7856,13 +7856,13 @@
 			(uuid "7165ed11-f1b9-4d0c-9377-b74d7459faa1")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "R7")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "R15")
 					(unit 1)
@@ -7941,13 +7941,13 @@
 			(uuid "2f20eb7b-c14d-4f43-b5bc-9698d8b0d748")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#FLG03")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#FLG03")
 					(unit 1)
@@ -8025,13 +8025,13 @@
 			(uuid "dca8d681-1ccb-4438-8b61-a6ee965af2cc")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR054")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR054")
 					(unit 1)
@@ -8124,13 +8124,13 @@
 			(uuid "b14b2b2c-2c9c-4263-97de-4e43917694c9")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "J2")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "J2")
 					(unit 1)
@@ -8212,13 +8212,13 @@
 			(uuid "b1a40aeb-5d4e-411d-9149-6998f13b0000")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "R4")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "R4")
 					(unit 1)
@@ -8296,13 +8296,13 @@
 			(uuid "7c7aecb3-d2bc-471c-a244-8ab4b3c0ddc1")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR049")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR049")
 					(unit 1)
@@ -8388,13 +8388,13 @@
 			(uuid "57eaba94-91ea-4840-99bc-853ea253e867")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "D1")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "D1")
 					(unit 1)
@@ -8474,13 +8474,13 @@
 			(uuid "5ae075ab-8b27-4b7a-b21c-2866e53ccbd1")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "R1")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "R2")
 					(unit 1)
@@ -8558,13 +8558,13 @@
 			(uuid "b794e927-bfa5-43c6-ba0f-2bd26bef7d30")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR046")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR046")
 					(unit 1)
@@ -8642,13 +8642,13 @@
 			(uuid "b8915934-3160-4d69-b5bb-72e13418df27")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR051")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR051")
 					(unit 1)
@@ -8726,13 +8726,13 @@
 			(uuid "50f10ea7-b73e-4d5b-9e2c-b94b0c942411")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR052")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "#PWR052")
 					(unit 1)
@@ -8812,13 +8812,13 @@
 			(uuid "ff7a6866-5450-434d-af7e-813e1c44ea74")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "C5")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "C5")
 					(unit 1)
@@ -8900,13 +8900,13 @@
 			(uuid "6e779039-c2a4-4416-8005-f4c6839540c2")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "C3")
 					(unit 1)
 				)
 			)
-			(project "mcu-modulino-REV-C"
+			(project "mcu-module"
 				(path "/eb23e97e-e53d-4b74-9142-ff24128517f5/4755d559-a457-41bc-b3cb-c9134d7a806a"
 					(reference "C3")
 					(unit 1)

@@ -9,7 +9,7 @@
 		(rev "A")
 	)
 	(lib_symbols
-		(symbol "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE"
+		(symbol "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -35,7 +35,7 @@
 					)
 				)
 			)
-			(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+			(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4793,7 +4793,7 @@
 		(uuid "fb2ba0ac-8b3b-4687-a96b-60b76fcf3090")
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 43.18 99.06 0)
 		(unit 1)
 		(body_style 1)
@@ -4824,7 +4824,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 43.18 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -4864,7 +4864,7 @@
 			(uuid "5eef10a7-785c-48cd-8609-63d631520dab")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C8-318")
 					(unit 1)
@@ -4873,7 +4873,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 119.38 119.38 0)
 		(unit 1)
 		(body_style 1)
@@ -4904,7 +4904,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 119.38 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -4944,7 +4944,7 @@
 			(uuid "111315b9-d5c1-4d69-9651-179a3cd07f7b")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C2-320")
 					(unit 1)
@@ -4953,7 +4953,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 182.88 83.82 0)
 		(mirror x)
 		(unit 1)
@@ -4985,7 +4985,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 182.88 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -5025,7 +5025,7 @@
 			(uuid "4428eeb5-e4ef-4060-8611-0388c8ca4060")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C5-330")
 					(unit 1)
@@ -5034,7 +5034,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 195.58 114.3 0)
 		(mirror x)
 		(unit 1)
@@ -5066,7 +5066,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 195.58 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -5106,7 +5106,7 @@
 			(uuid "23d5a00e-c36b-43cb-a710-6d02deeb9724")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C4-327")
 					(unit 1)
@@ -5115,7 +5115,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 220.98 114.3 0)
 		(mirror x)
 		(unit 1)
@@ -5147,7 +5147,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 220.98 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -5187,7 +5187,7 @@
 			(uuid "3f5bb888-068e-4239-9ef8-853d17bfb24a")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C2-327")
 					(unit 1)
@@ -5196,7 +5196,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 208.28 134.62 0)
 		(mirror x)
 		(unit 1)
@@ -5228,7 +5228,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 208.28 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -5268,7 +5268,7 @@
 			(uuid "07ff4df1-3c99-42c0-9f8c-6c0c0eb9a64e")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C3-325")
 					(unit 1)
@@ -5277,7 +5277,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 144.78 93.98 0)
 		(mirror x)
 		(unit 1)
@@ -5309,7 +5309,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 144.78 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -5349,7 +5349,7 @@
 			(uuid "50185dbe-60f4-4f25-afd0-3ea052f39c2b")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C8-329")
 					(unit 1)
@@ -5358,7 +5358,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 132.08 132.08 0)
 		(unit 1)
 		(body_style 1)
@@ -5389,7 +5389,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 132.08 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -5429,7 +5429,7 @@
 			(uuid "54c93dc4-8b53-4cf6-9bbc-fa1ce8882191")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C1-321")
 					(unit 1)
@@ -5438,7 +5438,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 220.98 104.14 0)
 		(mirror x)
 		(unit 1)
@@ -5470,7 +5470,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 220.98 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -5510,7 +5510,7 @@
 			(uuid "6aab125f-eb88-4d3a-832b-569a90815ef2")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C2-328")
 					(unit 1)
@@ -5519,7 +5519,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 144.78 124.46 0)
 		(mirror x)
 		(unit 1)
@@ -5551,7 +5551,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 144.78 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -5591,7 +5591,7 @@
 			(uuid "766be1d3-e367-424e-bbf3-3a7fd119fef7")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C8-326")
 					(unit 1)
@@ -5600,7 +5600,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 119.38 109.22 0)
 		(unit 1)
 		(body_style 1)
@@ -5631,7 +5631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 119.38 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -5671,7 +5671,7 @@
 			(uuid "9828b33d-1dae-4827-8a0e-37f74c7a6dfe")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C2-319")
 					(unit 1)
@@ -5680,7 +5680,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 182.88 114.3 0)
 		(mirror x)
 		(unit 1)
@@ -5712,7 +5712,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 182.88 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -5752,7 +5752,7 @@
 			(uuid "c2c3b59d-7090-4272-82b0-67194de3d6ed")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C5-327")
 					(unit 1)
@@ -5761,7 +5761,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 81.28 119.38 0)
 		(unit 1)
 		(body_style 1)
@@ -5792,7 +5792,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 81.28 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5832,7 +5832,7 @@
 			(uuid "34e5ba2b-c099-481b-9474-7a573edc2f88")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C5-320")
 					(unit 1)
@@ -5841,7 +5841,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 132.08 142.24 0)
 		(unit 1)
 		(body_style 1)
@@ -5872,7 +5872,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 132.08 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -5912,7 +5912,7 @@
 			(uuid "1defe8a8-9ca6-4b52-90b2-28f28275f6f5")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C1-322")
 					(unit 1)
@@ -5921,7 +5921,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 43.18 139.7 0)
 		(unit 1)
 		(body_style 1)
@@ -5952,7 +5952,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 43.18 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -5992,7 +5992,7 @@
 			(uuid "9712c736-78d5-4a0f-af0b-50d256f05e61")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C8-322")
 					(unit 1)
@@ -6001,7 +6001,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 208.28 104.14 0)
 		(mirror x)
 		(unit 1)
@@ -6033,7 +6033,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 208.28 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6073,7 +6073,7 @@
 			(uuid "84ef1e31-1ca4-4176-9e14-c1cefd722c16")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C3-328")
 					(unit 1)
@@ -6082,7 +6082,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 195.58 134.62 0)
 		(mirror x)
 		(unit 1)
@@ -6114,7 +6114,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 195.58 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -6154,7 +6154,7 @@
 			(uuid "8ba6a1af-8bbe-4da6-86b4-363609439635")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C4-325")
 					(unit 1)
@@ -6163,7 +6163,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 195.58 83.82 0)
 		(mirror x)
 		(unit 1)
@@ -6195,7 +6195,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 195.58 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -6235,7 +6235,7 @@
 			(uuid "60b690ce-d3ea-42aa-876b-a6f6be82fdd7")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C4-330")
 					(unit 1)
@@ -6244,7 +6244,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 195.58 144.78 0)
 		(mirror x)
 		(unit 1)
@@ -6276,7 +6276,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 195.58 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -6316,7 +6316,7 @@
 			(uuid "856e3aa8-affa-4a28-aab2-459496bbd59a")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C4-324")
 					(unit 1)
@@ -6325,7 +6325,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 93.98 109.22 0)
 		(unit 1)
 		(body_style 1)
@@ -6356,7 +6356,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 93.98 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -6396,7 +6396,7 @@
 			(uuid "1e33fd22-5cb3-4749-8282-20e0cb96e181")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C4-319")
 					(unit 1)
@@ -6405,7 +6405,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 182.88 134.62 0)
 		(mirror x)
 		(unit 1)
@@ -6437,7 +6437,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 182.88 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -6477,7 +6477,7 @@
 			(uuid "905e1894-a35b-4335-9e86-5b138a393487")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C5-325")
 					(unit 1)
@@ -6486,7 +6486,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 170.18 114.3 0)
 		(mirror x)
 		(unit 1)
@@ -6518,7 +6518,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 170.18 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -6558,7 +6558,7 @@
 			(uuid "70e9727d-d14f-4797-88ac-cd6460b68987")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C6-327")
 					(unit 1)
@@ -6567,7 +6567,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 68.58 109.22 0)
 		(unit 1)
 		(body_style 1)
@@ -6598,7 +6598,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 68.58 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -6638,7 +6638,7 @@
 			(uuid "67b5c9e1-3904-4d2c-8c88-aefd971951b2")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C6-319")
 					(unit 1)
@@ -6647,7 +6647,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 220.98 134.62 0)
 		(mirror x)
 		(unit 1)
@@ -6679,7 +6679,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 220.98 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -6719,7 +6719,7 @@
 			(uuid "895b7667-7166-4750-9681-fa8ba937f371")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C2-325")
 					(unit 1)
@@ -6728,7 +6728,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 132.08 101.6 0)
 		(unit 1)
 		(body_style 1)
@@ -6759,7 +6759,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 132.08 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -6799,7 +6799,7 @@
 			(uuid "5d5ac698-2697-4c73-8bc3-2851ace09052")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C1-318")
 					(unit 1)
@@ -6808,7 +6808,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 106.68 109.22 0)
 		(unit 1)
 		(body_style 1)
@@ -6839,7 +6839,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 106.68 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -6879,7 +6879,7 @@
 			(uuid "95eebe13-f217-49c6-aae5-d6030f8eb70d")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C3-319")
 					(unit 1)
@@ -6888,7 +6888,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 195.58 104.14 0)
 		(mirror x)
 		(unit 1)
@@ -6920,7 +6920,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 195.58 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6960,7 +6960,7 @@
 			(uuid "2f336c55-9968-4783-b0be-0a2e6c1388fc")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C4-328")
 					(unit 1)
@@ -6969,7 +6969,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 68.58 129.54 0)
 		(unit 1)
 		(body_style 1)
@@ -7000,7 +7000,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 68.58 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -7040,7 +7040,7 @@
 			(uuid "2c5c2385-4959-4620-a63b-9d8c8ebf08f4")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C6-321")
 					(unit 1)
@@ -7049,7 +7049,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 157.48 114.3 0)
 		(mirror x)
 		(unit 1)
@@ -7081,7 +7081,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 157.48 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -7121,7 +7121,7 @@
 			(uuid "e3b5ae5d-4450-43ed-9ac5-95e3d8b7cb1e")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C7-327")
 					(unit 1)
@@ -7130,7 +7130,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 220.98 83.82 0)
 		(mirror x)
 		(unit 1)
@@ -7162,7 +7162,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 220.98 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -7202,7 +7202,7 @@
 			(uuid "95fe3f0d-9d7e-41ea-9ad2-9ccef8c085ec")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C2-330")
 					(unit 1)
@@ -7211,7 +7211,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 182.88 104.14 0)
 		(mirror x)
 		(unit 1)
@@ -7243,7 +7243,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 182.88 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -7283,7 +7283,7 @@
 			(uuid "3fd2caca-01e4-4556-8e15-f8e7d6e1f7bc")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C5-328")
 					(unit 1)
@@ -7292,7 +7292,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 55.88 119.38 0)
 		(unit 1)
 		(body_style 1)
@@ -7323,7 +7323,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 55.88 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -7363,7 +7363,7 @@
 			(uuid "6e1b8108-1686-4b27-be1e-6a4a56d7b162")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C7-320")
 					(unit 1)
@@ -7372,7 +7372,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 170.18 134.62 0)
 		(mirror x)
 		(unit 1)
@@ -7404,7 +7404,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 170.18 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -7444,7 +7444,7 @@
 			(uuid "742ffefe-2157-4c05-a86a-e1579d14ed24")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C6-325")
 					(unit 1)
@@ -7453,7 +7453,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 132.08 121.92 0)
 		(unit 1)
 		(body_style 1)
@@ -7484,7 +7484,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 132.08 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -7524,7 +7524,7 @@
 			(uuid "3b29e232-a761-4e30-978f-8a0b9fdb5444")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C1-320")
 					(unit 1)
@@ -7533,7 +7533,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 157.48 93.98 0)
 		(mirror x)
 		(unit 1)
@@ -7565,7 +7565,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 157.48 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -7605,7 +7605,7 @@
 			(uuid "264158bc-918c-497e-a3e6-bba41c804de2")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C7-329")
 					(unit 1)
@@ -7614,7 +7614,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 157.48 124.46 0)
 		(mirror x)
 		(unit 1)
@@ -7646,7 +7646,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 157.48 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -7686,7 +7686,7 @@
 			(uuid "1c7ebc82-88e0-468a-b47a-48f6fbffffed")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C7-326")
 					(unit 1)
@@ -7695,7 +7695,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 43.18 149.86 0)
 		(unit 1)
 		(body_style 1)
@@ -7726,7 +7726,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 43.18 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -7766,7 +7766,7 @@
 			(uuid "84dd151b-578a-448f-b86c-7ef9836778fb")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C8-323")
 					(unit 1)
@@ -7775,7 +7775,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 132.08 152.4 0)
 		(unit 1)
 		(body_style 1)
@@ -7806,7 +7806,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 132.08 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -7846,7 +7846,7 @@
 			(uuid "8623ae87-680e-42a3-b72b-91e810a7f5d3")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C1-323")
 					(unit 1)
@@ -7855,7 +7855,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 119.38 99.06 0)
 		(unit 1)
 		(body_style 1)
@@ -7886,7 +7886,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 119.38 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -7926,7 +7926,7 @@
 			(uuid "aab9a50c-4ae2-48fb-8c80-ca4db6d60f61")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C2-318")
 					(unit 1)
@@ -7935,7 +7935,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 208.28 114.3 0)
 		(mirror x)
 		(unit 1)
@@ -7967,7 +7967,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 208.28 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -8007,7 +8007,7 @@
 			(uuid "999a372c-2285-40a0-8e86-f92f4b1e5f49")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C3-327")
 					(unit 1)
@@ -8016,7 +8016,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 93.98 99.06 0)
 		(unit 1)
 		(body_style 1)
@@ -8047,7 +8047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 93.98 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -8087,7 +8087,7 @@
 			(uuid "70547aa8-8069-48b0-9a9d-88b9f4808ffc")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C4-318")
 					(unit 1)
@@ -8096,7 +8096,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 68.58 99.06 0)
 		(unit 1)
 		(body_style 1)
@@ -8127,7 +8127,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 68.58 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -8167,7 +8167,7 @@
 			(uuid "2b70d9f6-8bfb-48d2-af85-ee867ff644b1")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C6-318")
 					(unit 1)
@@ -8176,7 +8176,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 182.88 144.78 0)
 		(mirror x)
 		(unit 1)
@@ -8208,7 +8208,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 182.88 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -8248,7 +8248,7 @@
 			(uuid "2061e5e1-50b3-4579-93e6-d7a1ea75f1d3")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C5-324")
 					(unit 1)
@@ -8257,7 +8257,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 68.58 149.86 0)
 		(unit 1)
 		(body_style 1)
@@ -8288,7 +8288,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 68.58 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -8328,7 +8328,7 @@
 			(uuid "16b4d0b0-8938-405e-8511-31092e2a98a2")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C6-323")
 					(unit 1)
@@ -8337,7 +8337,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 43.18 119.38 0)
 		(unit 1)
 		(body_style 1)
@@ -8368,7 +8368,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 43.18 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -8408,7 +8408,7 @@
 			(uuid "f1e10613-067b-412f-9d6b-2a647d4b00e6")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C8-320")
 					(unit 1)
@@ -8417,7 +8417,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 81.28 149.86 0)
 		(unit 1)
 		(body_style 1)
@@ -8448,7 +8448,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 81.28 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -8488,7 +8488,7 @@
 			(uuid "e12b1a22-bbc2-4e21-ae6d-443cae1db9eb")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C5-323")
 					(unit 1)
@@ -8497,7 +8497,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 182.88 124.46 0)
 		(mirror x)
 		(unit 1)
@@ -8529,7 +8529,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 182.88 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -8569,7 +8569,7 @@
 			(uuid "40f426d3-003d-4a90-96e0-4bef8ccd7c58")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C5-326")
 					(unit 1)
@@ -8578,7 +8578,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 144.78 104.14 0)
 		(mirror x)
 		(unit 1)
@@ -8610,7 +8610,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 144.78 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -8650,7 +8650,7 @@
 			(uuid "5e97b62f-cc13-41ed-b3e5-900a7d0dde5d")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C8-328")
 					(unit 1)
@@ -8659,7 +8659,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 68.58 88.9 0)
 		(unit 1)
 		(body_style 1)
@@ -8690,7 +8690,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 68.58 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -8730,7 +8730,7 @@
 			(uuid "c3a41b73-f48a-45a5-9838-58de4ca7cb12")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C6-317")
 					(unit 1)
@@ -8739,7 +8739,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 43.18 88.9 0)
 		(unit 1)
 		(body_style 1)
@@ -8770,7 +8770,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 43.18 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -8810,7 +8810,7 @@
 			(uuid "a4c0acf1-0d45-498d-a12f-8433d2bad668")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C8-317")
 					(unit 1)
@@ -8819,7 +8819,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 157.48 144.78 0)
 		(mirror x)
 		(unit 1)
@@ -8851,7 +8851,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 157.48 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -8891,7 +8891,7 @@
 			(uuid "590e6751-bfc2-4241-86bc-76b349eafc85")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C7-324")
 					(unit 1)
@@ -8900,7 +8900,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 208.28 124.46 0)
 		(mirror x)
 		(unit 1)
@@ -8932,7 +8932,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 208.28 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -8972,7 +8972,7 @@
 			(uuid "a5b5b133-bff1-4839-8cef-fda0a3414de7")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C3-326")
 					(unit 1)
@@ -8981,7 +8981,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 132.08 111.76 0)
 		(unit 1)
 		(body_style 1)
@@ -9012,7 +9012,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 132.08 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -9052,7 +9052,7 @@
 			(uuid "1ad3cc17-e799-4b11-aa62-bd565bce4451")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C1-319")
 					(unit 1)
@@ -9061,7 +9061,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 81.28 99.06 0)
 		(unit 1)
 		(body_style 1)
@@ -9092,7 +9092,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 81.28 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -9132,7 +9132,7 @@
 			(uuid "47698120-e8f8-4b38-bdae-829036d09163")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C5-318")
 					(unit 1)
@@ -9141,7 +9141,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 144.78 114.3 0)
 		(mirror x)
 		(unit 1)
@@ -9173,7 +9173,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 144.78 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -9213,7 +9213,7 @@
 			(uuid "467c1507-a662-4648-bd1f-29ddba0f13a4")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C8-327")
 					(unit 1)
@@ -9222,7 +9222,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 170.18 144.78 0)
 		(mirror x)
 		(unit 1)
@@ -9254,7 +9254,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 170.18 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -9294,7 +9294,7 @@
 			(uuid "51ddf827-1de6-4de4-a723-9d1487a75d31")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C6-324")
 					(unit 1)
@@ -9303,7 +9303,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 170.18 104.14 0)
 		(mirror x)
 		(unit 1)
@@ -9335,7 +9335,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 170.18 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -9375,7 +9375,7 @@
 			(uuid "1f09df39-b8f1-4a21-874a-9b9e1e73ce33")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C6-328")
 					(unit 1)
@@ -9384,7 +9384,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 119.38 129.54 0)
 		(unit 1)
 		(body_style 1)
@@ -9415,7 +9415,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 119.38 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -9455,7 +9455,7 @@
 			(uuid "f8e4ef8b-889d-4cc8-87da-d573ceaa3793")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C2-321")
 					(unit 1)
@@ -9464,7 +9464,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 208.28 144.78 0)
 		(mirror x)
 		(unit 1)
@@ -9496,7 +9496,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 208.28 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -9536,7 +9536,7 @@
 			(uuid "42376e12-3dfb-41f0-8381-3599e4173e86")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C3-324")
 					(unit 1)
@@ -9545,7 +9545,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 106.68 119.38 0)
 		(unit 1)
 		(body_style 1)
@@ -9576,7 +9576,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 106.68 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -9616,7 +9616,7 @@
 			(uuid "5756e7da-e0ef-4f7c-b61f-87099dbafd65")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C3-320")
 					(unit 1)
@@ -9625,7 +9625,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 55.88 88.9 0)
 		(unit 1)
 		(body_style 1)
@@ -9656,7 +9656,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 55.88 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -9696,7 +9696,7 @@
 			(uuid "2e956fb5-8587-492d-b663-d5622baaf145")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C7-317")
 					(unit 1)
@@ -9705,7 +9705,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 119.38 149.86 0)
 		(unit 1)
 		(body_style 1)
@@ -9736,7 +9736,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 119.38 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -9776,7 +9776,7 @@
 			(uuid "f661da31-e43a-4898-8511-71ba9d970576")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C2-323")
 					(unit 1)
@@ -9785,7 +9785,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 81.28 109.22 0)
 		(unit 1)
 		(body_style 1)
@@ -9816,7 +9816,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 81.28 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -9856,7 +9856,7 @@
 			(uuid "810ca4dc-0bb2-4d3c-8dac-5558b8720566")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C5-319")
 					(unit 1)
@@ -9865,7 +9865,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 182.88 93.98 0)
 		(mirror x)
 		(unit 1)
@@ -9897,7 +9897,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 182.88 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -9937,7 +9937,7 @@
 			(uuid "96cc6854-ebda-412c-ba94-79fc41cd278e")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C5-329")
 					(unit 1)
@@ -9946,7 +9946,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 144.78 144.78 0)
 		(mirror x)
 		(unit 1)
@@ -9978,7 +9978,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 144.78 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -10018,7 +10018,7 @@
 			(uuid "00382c79-477c-4fb1-8702-c96899f871fc")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C8-324")
 					(unit 1)
@@ -10027,7 +10027,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 220.98 147.32 0)
 		(mirror x)
 		(unit 1)
@@ -10059,7 +10059,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 220.98 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -10099,7 +10099,7 @@
 			(uuid "2f603519-4935-4d5e-b5d3-f9e9eac5d329")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C2-324")
 					(unit 1)
@@ -10108,7 +10108,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 220.98 124.46 0)
 		(mirror x)
 		(unit 1)
@@ -10140,7 +10140,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 220.98 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -10180,7 +10180,7 @@
 			(uuid "1342589a-a88c-4dcc-96ea-1636f19226c1")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C2-326")
 					(unit 1)
@@ -10189,7 +10189,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 106.68 149.86 0)
 		(unit 1)
 		(body_style 1)
@@ -10220,7 +10220,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 106.68 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -10260,7 +10260,7 @@
 			(uuid "be1bbed4-778d-4ab0-b2a0-0fe1f5b2a912")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C3-323")
 					(unit 1)
@@ -10269,7 +10269,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 119.38 139.7 0)
 		(unit 1)
 		(body_style 1)
@@ -10300,7 +10300,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 119.38 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -10340,7 +10340,7 @@
 			(uuid "fbd68e98-588b-4864-a394-3942afb9ff81")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C2-322")
 					(unit 1)
@@ -10349,7 +10349,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 220.98 93.98 0)
 		(mirror x)
 		(unit 1)
@@ -10381,7 +10381,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 220.98 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -10421,7 +10421,7 @@
 			(uuid "f43a730e-4f49-41d9-851e-816b2ce7aa39")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C2-329")
 					(unit 1)
@@ -10430,7 +10430,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 55.88 109.22 0)
 		(unit 1)
 		(body_style 1)
@@ -10461,7 +10461,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 55.88 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -10501,7 +10501,7 @@
 			(uuid "f5c25e43-27bc-45d1-a03c-a74305b8d672")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C7-319")
 					(unit 1)
@@ -10510,7 +10510,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 170.18 93.98 0)
 		(mirror x)
 		(unit 1)
@@ -10542,7 +10542,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 170.18 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -10582,7 +10582,7 @@
 			(uuid "3b10e46d-d05e-483f-8e46-8ea39047f7fe")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C6-329")
 					(unit 1)
@@ -10591,7 +10591,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 93.98 129.54 0)
 		(unit 1)
 		(body_style 1)
@@ -10622,7 +10622,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 93.98 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -10662,7 +10662,7 @@
 			(uuid "5e2f8222-dddc-4e74-8d11-56012281caed")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C4-321")
 					(unit 1)
@@ -10671,7 +10671,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 132.08 91.44 0)
 		(unit 1)
 		(body_style 1)
@@ -10702,7 +10702,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 132.08 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -10742,7 +10742,7 @@
 			(uuid "d587f568-2686-4dcb-882e-7ddb2bac2997")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C1-317")
 					(unit 1)
@@ -10751,7 +10751,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 93.98 88.9 0)
 		(unit 1)
 		(body_style 1)
@@ -10782,7 +10782,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 93.98 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -10822,7 +10822,7 @@
 			(uuid "9d3b01be-f33c-4342-8c05-31be087907e9")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C4-317")
 					(unit 1)
@@ -10831,7 +10831,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 170.18 124.46 0)
 		(mirror x)
 		(unit 1)
@@ -10863,7 +10863,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 170.18 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -10903,7 +10903,7 @@
 			(uuid "4bf772f1-e9e2-4f34-a251-2add9094a74d")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C6-326")
 					(unit 1)
@@ -10912,7 +10912,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 195.58 93.98 0)
 		(mirror x)
 		(unit 1)
@@ -10944,7 +10944,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 195.58 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -10984,7 +10984,7 @@
 			(uuid "adca0ff4-cd49-442a-8523-85506e4805d9")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C4-329")
 					(unit 1)
@@ -10993,7 +10993,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 81.28 139.7 0)
 		(unit 1)
 		(body_style 1)
@@ -11024,7 +11024,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 81.28 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -11064,7 +11064,7 @@
 			(uuid "49df1863-6be5-4b2c-8914-da761c51f79a")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C5-322")
 					(unit 1)
@@ -11073,7 +11073,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 144.78 83.82 0)
 		(mirror x)
 		(unit 1)
@@ -11105,7 +11105,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 144.78 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -11145,7 +11145,7 @@
 			(uuid "364a781b-3a7e-4872-9175-2142c9b7c946")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C8-330")
 					(unit 1)
@@ -11154,7 +11154,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 157.48 134.62 0)
 		(mirror x)
 		(unit 1)
@@ -11186,7 +11186,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 157.48 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -11226,7 +11226,7 @@
 			(uuid "9c0dce1c-3360-4191-9ade-ce390f62a089")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C7-325")
 					(unit 1)
@@ -11235,7 +11235,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 170.18 83.82 0)
 		(mirror x)
 		(unit 1)
@@ -11267,7 +11267,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 170.18 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -11307,7 +11307,7 @@
 			(uuid "8e29d16b-ad90-4519-ae6a-cb770ff6c53b")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C6-330")
 					(unit 1)
@@ -11316,7 +11316,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 106.68 99.06 0)
 		(unit 1)
 		(body_style 1)
@@ -11347,7 +11347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 106.68 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -11387,7 +11387,7 @@
 			(uuid "98947251-a269-42f2-a02e-92e789ec24ae")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C3-318")
 					(unit 1)
@@ -11396,7 +11396,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 81.28 129.54 0)
 		(unit 1)
 		(body_style 1)
@@ -11427,7 +11427,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 81.28 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -11467,7 +11467,7 @@
 			(uuid "a18ed941-114e-41fa-bc0f-d31f83e5f015")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C5-321")
 					(unit 1)
@@ -11476,7 +11476,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 157.48 83.82 0)
 		(mirror x)
 		(unit 1)
@@ -11508,7 +11508,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 157.48 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -11548,7 +11548,7 @@
 			(uuid "8eb2c925-efc7-44f7-9bfb-1f91ceae6ca8")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C7-330")
 					(unit 1)
@@ -11557,7 +11557,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 157.48 104.14 0)
 		(mirror x)
 		(unit 1)
@@ -11589,7 +11589,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 157.48 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -11629,7 +11629,7 @@
 			(uuid "621bdd3c-549d-4b0a-ba3f-2a9170baea6b")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C7-328")
 					(unit 1)
@@ -11638,7 +11638,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 208.28 83.82 0)
 		(mirror x)
 		(unit 1)
@@ -11670,7 +11670,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 208.28 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -11710,7 +11710,7 @@
 			(uuid "8b29462c-b434-4fa1-b6ea-d97e47c2d0b4")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C3-330")
 					(unit 1)
@@ -11719,7 +11719,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 195.58 124.46 0)
 		(mirror x)
 		(unit 1)
@@ -11751,7 +11751,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 195.58 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -11791,7 +11791,7 @@
 			(uuid "31bc24ce-475d-4764-ab46-d76e75d85609")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C4-326")
 					(unit 1)
@@ -11800,7 +11800,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 119.38 88.9 0)
 		(unit 1)
 		(body_style 1)
@@ -11831,7 +11831,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 119.38 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -11871,7 +11871,7 @@
 			(uuid "f15708fa-8e5e-4b67-b9be-82d9e2a48b97")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C2-317")
 					(unit 1)
@@ -11880,7 +11880,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 81.28 88.9 0)
 		(unit 1)
 		(body_style 1)
@@ -11911,7 +11911,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 81.28 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -11951,7 +11951,7 @@
 			(uuid "2236437f-046a-4577-9d72-590cd1a11a0f")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C5-317")
 					(unit 1)
@@ -11960,7 +11960,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 106.68 139.7 0)
 		(unit 1)
 		(body_style 1)
@@ -11991,7 +11991,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 106.68 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -12031,7 +12031,7 @@
 			(uuid "53d7d4a2-d303-48c2-b7f7-f737d97e0885")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C3-322")
 					(unit 1)
@@ -12040,7 +12040,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 43.18 109.22 0)
 		(unit 1)
 		(body_style 1)
@@ -12071,7 +12071,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 43.18 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -12111,7 +12111,7 @@
 			(uuid "4a117998-84f7-469a-985b-b0772f5d8ed4")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C8-319")
 					(unit 1)
@@ -12120,7 +12120,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 144.78 134.62 0)
 		(mirror x)
 		(unit 1)
@@ -12152,7 +12152,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 144.78 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -12192,7 +12192,7 @@
 			(uuid "f7049413-bf9a-479e-ac76-5828d17ec84f")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C8-325")
 					(unit 1)
@@ -12201,7 +12201,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 68.58 119.38 0)
 		(unit 1)
 		(body_style 1)
@@ -12232,7 +12232,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 68.58 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -12272,7 +12272,7 @@
 			(uuid "47311df6-5d93-425c-a95a-b051e4d00a92")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C6-320")
 					(unit 1)
@@ -12281,7 +12281,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 93.98 149.86 0)
 		(unit 1)
 		(body_style 1)
@@ -12312,7 +12312,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 93.98 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -12352,7 +12352,7 @@
 			(uuid "f5edb029-dda6-40b8-9f0f-c2ecb2080d06")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C4-323")
 					(unit 1)
@@ -12361,7 +12361,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 55.88 129.54 0)
 		(unit 1)
 		(body_style 1)
@@ -12392,7 +12392,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 55.88 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -12432,7 +12432,7 @@
 			(uuid "e6c6310f-95de-48bd-b1a2-d9c5c336bc0c")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C7-321")
 					(unit 1)
@@ -12441,7 +12441,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 106.68 88.9 0)
 		(unit 1)
 		(body_style 1)
@@ -12472,7 +12472,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 106.68 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -12512,7 +12512,7 @@
 			(uuid "054740b8-5094-40e4-9288-0fe9243413ec")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C3-317")
 					(unit 1)
@@ -12521,7 +12521,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 55.88 149.86 0)
 		(unit 1)
 		(body_style 1)
@@ -12552,7 +12552,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 55.88 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -12592,7 +12592,7 @@
 			(uuid "36e8de36-8eaa-48cf-848b-e8cd5e5cb62f")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C7-323")
 					(unit 1)
@@ -12601,7 +12601,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 106.68 129.54 0)
 		(unit 1)
 		(body_style 1)
@@ -12632,7 +12632,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 106.68 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -12672,7 +12672,7 @@
 			(uuid "0cf7ed82-c31f-4c35-83f0-20554803cef7")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C3-321")
 					(unit 1)
@@ -12681,7 +12681,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 208.28 93.98 0)
 		(mirror x)
 		(unit 1)
@@ -12713,7 +12713,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 208.28 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -12753,7 +12753,7 @@
 			(uuid "a85d9cc2-e580-4967-8981-3dd17aeb8ffb")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C3-329")
 					(unit 1)
@@ -12762,7 +12762,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 55.88 139.7 0)
 		(unit 1)
 		(body_style 1)
@@ -12793,7 +12793,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 55.88 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -12833,7 +12833,7 @@
 			(uuid "e4d6b6b9-f9bc-4436-be72-b6b8a747f29b")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C7-322")
 					(unit 1)
@@ -12842,7 +12842,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 43.18 129.54 0)
 		(unit 1)
 		(body_style 1)
@@ -12873,7 +12873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 43.18 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -12913,7 +12913,7 @@
 			(uuid "232628b5-93ff-4083-8ead-2937b9e9309d")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C8-321")
 					(unit 1)
@@ -12922,7 +12922,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 93.98 139.7 0)
 		(unit 1)
 		(body_style 1)
@@ -12953,7 +12953,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 93.98 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -12993,7 +12993,7 @@
 			(uuid "c20e7bea-5929-48ef-88fd-2bc65b5358a3")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C4-322")
 					(unit 1)
@@ -13002,7 +13002,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 68.58 139.7 0)
 		(unit 1)
 		(body_style 1)
@@ -13033,7 +13033,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 68.58 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -13073,7 +13073,7 @@
 			(uuid "25b7a91b-f61d-4b4d-9640-fd87f04c9277")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C6-322")
 					(unit 1)
@@ -13082,7 +13082,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 55.88 99.06 0)
 		(unit 1)
 		(body_style 1)
@@ -13113,7 +13113,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 55.88 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -13153,7 +13153,7 @@
 			(uuid "538d2808-ae2c-40dd-852a-3821047192a8")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C7-318")
 					(unit 1)
@@ -13162,7 +13162,7 @@
 		)
 	)
 	(symbol
-		(lib_id "mcu-modulino-eagle-import:microbuilder_LED0603_NOOUTLINE")
+		(lib_id "mcu-module-eagle-import:microbuilder_LED0603_NOOUTLINE")
 		(at 93.98 119.38 0)
 		(unit 1)
 		(body_style 1)
@@ -13193,7 +13193,7 @@
 				)
 			)
 		)
-		(property "Footprint" "mcu-modulino:CHIPLED_0603_NOOUTLINE"
+		(property "Footprint" "mcu-module:CHIPLED_0603_NOOUTLINE"
 			(at 93.98 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -13233,7 +13233,7 @@
 			(uuid "ac3a5163-f957-44c2-b926-73e71bdfd9fe")
 		)
 		(instances
-			(project "mcu-modulino"
+			(project "mcu-module"
 				(path "/e1bb7ece-3978-4d22-a99b-33415db3e370/c4bc349a-87f8-42f3-a535-a61d414a3502"
 					(reference "C4-320")
 					(unit 1)

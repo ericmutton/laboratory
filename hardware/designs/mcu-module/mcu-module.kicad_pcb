@@ -227,7 +227,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/640fba37-8079-42b9-b4ce-0ab855806c3a")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1438,7 +1438,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/34a140cc-85d5-403f-8017-4f9383694fa8")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1590,7 +1590,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/a487ea81-ed98-4ddd-b3a7-8ab8e03c604d")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1732,7 +1732,7 @@
 		(property ki_fp_filters "Connector*:*_1x??-1SH*")
 		(path "/f83d9980-4008-4d32-b5a3-c8cc0aa9429d")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2153,7 +2153,7 @@
 		)
 		(path "/eafb665a-f576-4db2-933e-feff386f26be")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10655,7 +10655,7 @@
 		)
 		(path "/a94df210-26fe-44ba-8053-8ef7dca9ea35")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12220,7 +12220,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/48205983-004e-4fa2-a2bf-5db9000b019f")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12553,7 +12553,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/2edd894c-201f-48c7-b04b-f44ba9bb305c")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12693,7 +12693,7 @@
 		(property ki_fp_filters "Connector*:*_2x??_*")
 		(path "/178493c6-f359-40f8-8321-65cbb75c1d68")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13027,7 +13027,7 @@
 		)
 		(path "/2e48171b-2d2d-4986-a257-ceaffdd2f65c")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13304,7 +13304,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/9da601e9-f7ad-48c9-adf5-d408bbfb2c99")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(solder_paste_margin_ratio -0.05)
 		(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -14284,7 +14284,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/d0f71309-c116-40de-b94d-33faadd68061")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(solder_paste_margin_ratio -0.05)
 		(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -14365,7 +14365,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/9d232dfd-e546-475e-8d54-2e5c22908ea2")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14511,7 +14511,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/96ba4495-6ab3-42bd-9a0b-d171926b0eee")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(solder_paste_margin_ratio -0.05)
 		(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -14592,7 +14592,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/5ec431ce-74f8-43a3-9aaa-a85cddfccf8d")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14744,7 +14744,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/47742378-bacb-446a-bb3f-0af78924f5d1")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14885,7 +14885,7 @@
 		)
 		(path "/8607b2e3-eb6d-44c3-b966-42268d150bfa")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23400,7 +23400,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/f4edb537-05f0-49c0-86f7-41c756d78d52")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23544,7 +23544,7 @@
 		(property ki_fp_filters "SolderJumper*Bridged*")
 		(path "/817a6efb-bfeb-4fdd-b186-699df6a22558")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(zone_connect 1)
 		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
@@ -24414,7 +24414,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/e9c98b11-d90f-4a65-bde5-c20543022917")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24566,7 +24566,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d0fd08ee-933a-4852-8449-dca4de441f30")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25460,7 +25460,7 @@
 		(property ki_fp_filters "SOT?223*TabPin2*")
 		(path "/30ab8e95-f5e5-4299-9aa3-6b5e98d4bc14")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25874,7 +25874,7 @@
 		)
 		(path "/459b1a5f-7464-4585-8865-e6096222875e")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26132,7 +26132,7 @@
 		)
 		(path "/e8738de7-0e3d-44fd-8328-2bb7b8bd8baf")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26415,7 +26415,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/d71eaccb-9092-473d-abde-fa681159d52f")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26561,7 +26561,7 @@
 		(property ki_fp_filters "MountingHole*")
 		(path "/8cf1485a-a847-42b7-b825-bcca51ddcb6f")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(solder_paste_margin_ratio -0.05)
 		(attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
 		(duplicate_pad_numbers_are_jumpers no)
@@ -26642,7 +26642,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/b3a01594-b4d4-4425-9ece-5a03a2c16abd")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26946,7 +26946,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/27ef12b2-e1d1-4055-a44e-6189cdb251ed")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27250,7 +27250,7 @@
 		(property ki_fp_filters "R_*")
 		(path "/c8bf9ea1-a224-42af-a247-0af07f93507a")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27543,7 +27543,7 @@
 		)
 		(path "/af80a2e7-228e-4593-9224-a601d6984991")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd allow_soldermask_bridges)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36362,7 +36362,7 @@
 		(property ki_fp_filters "C_*")
 		(path "/3789a764-8b4d-4160-ac4e-3177301db0a9")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36666,7 +36666,7 @@
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/9735548f-0ea9-40b9-8086-7631ed46e54c")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -36869,7 +36869,7 @@
 		(property ki_fp_filters "SOT?363*")
 		(path "/c285224c-86e0-453f-9f74-c3915fff62ce")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -37221,7 +37221,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/c2ebda12-ac6d-4e48-8c9f-d413bde55584")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -37330,7 +37330,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/87a2e41d-8954-4a6a-8259-bfe6cc893b35")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -37439,7 +37439,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/48b6ce45-caa5-4199-a348-f2c275b54987")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -37548,7 +37548,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/5c7897c0-3ab3-4a53-aed8-9aa2c07365da")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -37657,7 +37657,7 @@
 		(property ki_fp_filters "Pin* Test*")
 		(path "/92f8c185-66d6-4935-b4a0-3263c2dced42")
 		(sheetname "/")
-		(sheetfile "mcu-modulino.kicad_sch")
+		(sheetfile "mcu-module.kicad_sch")
 		(attr exclude_from_pos_files exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle

@@ -506,7 +506,7 @@
     ]
   },
   "meta": {
-    "filename": "mcu-modulino.kicad_pro",
+    "filename": "mcu-module.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -759,8 +759,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "mcu-modulino.kicad_sch",
-        "name": "Microcontroller Modulino",
+        "filename": "mcu-module.kicad_sch",
+        "name": "Microcontroller Module",
         "uuid": "e1bb7ece-3978-4d22-a99b-33415db3e370"
       }
     ],
@@ -770,7 +770,7 @@
   "sheets": [
     [
       "e1bb7ece-3978-4d22-a99b-33415db3e370",
-      "Microcontroller Modulino"
+      "Microcontroller Module"
     ],
     [
       "4755d559-a457-41bc-b3cb-c9134d7a806a",
